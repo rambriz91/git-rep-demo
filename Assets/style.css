@@ -1,0 +1,31 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Block-Type {
+    display: block;
+}
+.inline {
+    display: inline;
+    margin: 40px;
+}
+.Color {
+    background-color:peachpuff
+}
+.nav {
+    position: sticky;
+}
+#image {
+    display: inline;
+    position: relative;
+    text-align: center;
+    padding: 20px; background-color: antiquewhite;
+    border: 5px;
+    margin: 20px;
+}
+#Header {
+    background-color: rgb(151, 171, 117);
+    padding: 20px;
+}
+#contact-form {
+    background-color: aliceblue;
+}
